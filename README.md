@@ -1,12 +1,12 @@
 
-# DevFlex - Show off your dev skills and share them with your friends.
+# DevCard - Show off your dev skills and share them with your friends.
 
 Track your coding journey with real-time commit stats and LeetCode solutions. Showcase your progress and compare achievements with fellow developers!
 
 
 ## Authors
 
-- [@jigyasumakkxr](https://github.com/jigyasumxkkxr)
+- [@ks-iitjmu](https://github.com/ks-iitjmu)
 
 
 ## Features
@@ -39,13 +39,3 @@ Track your coding journey with real-time commit stats and LeetCode solutions. Sh
  - [Hover Animation](https://www.hover.dev/)
  - [Commits Count](https://github.com/DenverCoder1/github-readme-streak-stats)
  - [Leetcode api](https://github.com/alfaarghya/alfa-leetcode-api)
-
-
-
-## Related
-
-Here are my MERN project
-
-[Payments-Master](https://payments.jigyasumakkxr.online/)
-
-[Blogging Website](https://blog.jigyasumakkxr.online/)
