@@ -1,6 +1,7 @@
 import { Nav } from "../components/nav"
 import { UsernameCard } from "../components/username-card"
 import logo from "../assets/Vector.svg"
+import Footer from "../components/footer"
 
 
 export const Landing = () => {
@@ -20,6 +21,7 @@ export const Landing = () => {
                 </div>
                 <UsernameCard />
             </div>
+            <Footer></Footer>
         </div>
     )
 }

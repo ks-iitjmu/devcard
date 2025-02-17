@@ -68,7 +68,7 @@ if(loading){
         }
         else {
             return (
-                <div className="flex flex-col sm:flex-row gap-12 sm:gap-0 justify-around sm:justify-between h-full sm:h-1/2">
+                <div className="flex flex-col sm:flex-row gap-12 sm:gap-0 justify-around sm:justify-evenly h-full sm:h-1/2">
                     <div className="flex px-6 items-center gap-6">
                         <GitHubProfile username={githubUsername} />
                         <div className="flex flex-col">
