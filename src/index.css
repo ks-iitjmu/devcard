@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background {
+    background-color: #000000cd;
+    background-blend-mode: darken;
+    background-image: repeating-radial-gradient(circle at 0 0, transparent 10px, #000 60px), repeating-linear-gradient(#ffffff29, #ffffff);
+}
