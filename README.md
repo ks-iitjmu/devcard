@@ -26,10 +26,10 @@ Track your coding journey with real-time commit stats and LeetCode solutions. Sh
 ## Screenshots
 
 ### Landing Page
-![27e6848b1f2e5e3dcf3d1ab94dc4a7ab.png](https://imgtr.ee/images/2024/08/17/27e6848b1f2e5e3dcf3d1ab94dc4a7ab.png)
+![27e6848b1f2e5e3dcf3d1ab94dc4a7ab.png](./src/assets/image1.png)
 
 ### Visualisation Page
-![b15c8e1aaaffa870828bf5412b2a23d9.png](https://imgtr.ee/images/2024/08/17/b15c8e1aaaffa870828bf5412b2a23d9.png)
+![b15c8e1aaaffa870828bf5412b2a23d9.png](./src/assets/image.png)
 
 
 
